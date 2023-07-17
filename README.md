@@ -4,7 +4,8 @@
 ### projects
 - RFM 기준 고객 분석을 통한 이커머스 매출 개선 프로젝트 [[프로젝트 소개]](https://github.com/hm98112/DataAchiever)
 <br/>
-링크를 클릭하면 자세한 설명을 확인할 수 있습니다.
+(링크를 클릭하면 자세한 내용을 확인할 수 있습니다.)<br/>
+
 ### Skills
 - python
 - sql
